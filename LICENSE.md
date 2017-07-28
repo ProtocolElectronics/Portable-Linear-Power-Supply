@@ -6,8 +6,5 @@ see full license details [here](https://creativecommons.org/licenses/by/4.0/lega
 
 
 In short, this license allows users to:
-1. Share
-...copy and redistribute the material in any medium or format
-2. Adapt
-...remix, transform, and build upon the material
-        for any purpose, even commercially.
+1. copy and redistribute the material in any medium or format
+2. remix, transform, and build upon the material for any purpose, even commercially.
