@@ -1,4 +1,4 @@
-###License Information
+### License Information
 
 Protocol Electronics hardware is released under [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 
